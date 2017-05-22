@@ -21,5 +21,3 @@ The program relies on two SQL tables. The server holding these will not be up in
 * **Conor Gildea**
 * **Tobias Hallen**
 * **Catalina Rete**
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
