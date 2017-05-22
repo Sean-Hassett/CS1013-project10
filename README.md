@@ -1,4 +1,4 @@
-# CS1013-project10
+﻿# CS1013-project10
 Group project for Trinity College Dublin's CS1013 module.
 
 A program that displays data from the UK Land Registry pertaining to the sale and lease of properties in England and Wales between the years 1995 and part of 2017.
@@ -6,7 +6,9 @@ A program that displays data from the UK Land Registry pertaining to the sale an
 ### Prerequisites
 
 ```
-The program relies on two SQL tables. The server holding these will not be up indefinitely. Most of the functions of the program can be run using only the small table but the search function requires the larger table. The small table is included in the repo if you want to download and run locally. The larger table(3.7gb) is available on request.
+The program relies on two SQL tables which can be downloaded and loaded on a local SQL server.
+Most of the functions of the program can be run using only the small table but the search function requires the larger table.
+The small table is included in the repo. The larger table(3.7gb) is available on request.
 ```
 
 ## Built With
