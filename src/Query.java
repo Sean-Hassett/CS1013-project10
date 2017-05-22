@@ -205,4 +205,4 @@ public class Query {
 		}
 		return results;
 	}
-} 
+}

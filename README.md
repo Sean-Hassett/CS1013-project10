@@ -19,7 +19,7 @@ The small table is included in the repo. The larger table(3.7gb) is available on
 
 ## Authors
 
-* **Seán Hassett** - (https://github.com/Sean-Hassett)
+* **[Seán Hassett](https://github.com/Sean-Hassett)**
 * **Conor Gildea**
 * **Tobias Hallen**
 * **Catalina Rete**
