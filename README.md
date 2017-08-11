@@ -22,4 +22,4 @@ The small table is included in the repo. The larger table(3.7gb) is available on
 * **[Seán Hassett](https://github.com/Sean-Hassett)**
 * **Conor Gildea**
 * **Tobias Hallen**
-* **Catalina Rete**
+* **[Catalina Rete](https://github.com/catakitty)**
