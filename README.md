@@ -3,13 +3,11 @@ Group project for Trinity College Dublin's CS1013 module.
 
 A program that displays data from the UK Land Registry pertaining to the sale and lease of properties in England and Wales between the years 1995 and part of 2017.
 
-**Video Demonstration:** https://youtu.be/7BHNk5xCse0
+**Video Demonstration:**
 
-<img src="https://github.com/Sean-Hassett/CS1013-project10/blob/master/Screens/project10_data.png"/>
-
-<img src="https://github.com/Sean-Hassett/CS1013-project10/blob/master/Screens/project10_trend.png"/>
-
-<img src="https://github.com/Sean-Hassett/CS1013-project10/blob/master/Screens/project10_map.png"/>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=7BHNk5xCse0&feature=youtu.be
+" target="_blank"><img src="https://i.imgur.com/0pVL4KO.png" 
+alt="Video Demonstration" width="960" height="540" border="10" /></a>
 
 ### Prerequisites
 
